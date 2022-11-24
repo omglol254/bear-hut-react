@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bear-hut-react/static/css/main.fe12731c.css",
+    "main.js": "/bear-hut-react/static/js/main.96555a66.js",
+    "static/js/787.bfb89d0d.chunk.js": "/bear-hut-react/static/js/787.bfb89d0d.chunk.js",
+    "index.html": "/bear-hut-react/index.html",
+    "main.fe12731c.css.map": "/bear-hut-react/static/css/main.fe12731c.css.map",
+    "main.96555a66.js.map": "/bear-hut-react/static/js/main.96555a66.js.map",
+    "787.bfb89d0d.chunk.js.map": "/bear-hut-react/static/js/787.bfb89d0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe12731c.css",
+    "static/js/main.96555a66.js"
+  ]
+}
